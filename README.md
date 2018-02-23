@@ -3,6 +3,6 @@
 #Ferramentas de controles de versão
 
 * Mercurial
-* GitHub
+* Gitlab
 * Subversion
 * CVS
